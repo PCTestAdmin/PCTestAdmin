@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="242" viewBox="0 0 1100 242" role="img" aria-labelledby="title">
+<title id="title">Public project snapshot: two featured projects, four stars on ECU Studio AI, continuous integration, GPL and MIT open-source licenses</title>
+<defs>
+ <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#121D30"/></linearGradient>
+ <linearGradient id="border" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58A6FF"/><stop offset="1" stop-color="#B392FF"/></linearGradient>
+</defs>
+<rect width="1100" height="242" rx="18" fill="url(#background)" stroke="#27364E"/>
+<text x="34" y="41" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="2.5" font-weight="700" fill="#92AFCF">PUBLIC PROJECT SNAPSHOT</text>
+<text x="1066" y="41" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#7D91AC">NOV 2026</text>
+<path d="M 34 57 H 1066" stroke="#28364C" stroke-width="1"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+  <text x="39" y="135" font-size="52" font-weight="700" fill="#E6F0FF">02</text>
+  <text x="39" y="170" font-size="16" fill="#92AFCF">PUBLIC PROJECTS</text>
+  <text x="39" y="196" font-size="13" fill="#5F7897">ECU Studio AI · TV Blocklist</text>
+  <path d="M 278 77 V 206" stroke="#27364E"/>
+  <text x="314" y="135" font-size="52" font-weight="700" fill="#E6F0FF">04</text>
+  <text x="314" y="170" font-size="16" fill="#92AFCF">ECU STUDIO AI STARS</text>
+  <text x="314" y="196" font-size="13" fill="#5F7897">At snapshot time</text>
+  <path d="M 549 77 V 206" stroke="#27364E"/>
+  <text x="585" y="135" font-size="43" font-weight="700" fill="#58A6FF">CI</text>
+  <text x="585" y="170" font-size="16" fill="#92AFCF">AUTOMATED TESTING</text>
+  <text x="585" y="196" font-size="13" fill="#5F7897">GitHub Actions</text>
+  <path d="M 816 77 V 206" stroke="#27364E"/>
+  <text x="850" y="135" font-size="37" font-weight="700" fill="#B392FF">GPL / MIT</text>
+  <text x="850" y="170" font-size="16" fill="#92AFCF">OPEN SOURCE</text>
+  <text x="850" y="196" font-size="13" fill="#5F7897">Public repositories</text>
+</g>
+<path d="M 34 224 H 1066" stroke="url(#border)" stroke-width="3" stroke-linecap="round"/>
+</svg>
