@@ -85,7 +85,7 @@ Current development focuses on code-backed curve detection, shared-axis identity
 
 <div align="center">
 
-<img width="100%" alt="Public project statistics as of 25 November 2026" src="./assets/project-snapshot.svg" />
+<img width="100%" alt="Public project statistics as of 25 November 2026" src="https://raw.githubusercontent.com/PCTestAdmin/PCTestAdmin/a3a6b3ed11625ec8f3df8a74ac5b9939204c900b/assets/project-snapshot.svg" />
 
 <sub>Snapshot taken on 25 November 2026. For live activity, see the contribution graph and pinned projects below.</sub>
 
