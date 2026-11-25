@@ -10,10 +10,10 @@
 
 **Software developer** · **Open-source projects** · **Automotive &amp; developer tools**
 
-I enjoy turning complex problems into practical, well-tested software.  
-Currently building **ECU Studio AI** and exploring new ideas for future projects.
+I build practical software for complex technical problems, with a focus on binary analysis, desktop applications and reproducible testing.  
+My main project is **ECU Studio AI**, a free and open-source ECU and TCU calibration workbench.
 
-[**🚀 Featured: ECU Studio AI**](https://github.com/PCTestAdmin/ECU-Studio-AI) · [**⬇ Latest release**](https://github.com/PCTestAdmin/ECU-Studio-AI/releases/latest) · [**📁 Repositories**](https://github.com/PCTestAdmin?tab=repositories)
+[**🚀 Featured: ECU Studio AI**](https://github.com/PCTestAdmin/ECU-Studio-AI) · [**⬇ Stable release**](https://github.com/PCTestAdmin/ECU-Studio-AI/releases/latest) · [**🧪 Pre-release**](https://github.com/PCTestAdmin/ECU-Studio-AI/releases/tag/v1.21.0-rc1) · [**📁 Repositories**](https://github.com/PCTestAdmin?tab=repositories)
 
 </div>
 
@@ -45,6 +45,27 @@ Currently building **ECU Studio AI** and exploring new ideas for future projects
 
 > **Engineering note:** Recognition evidence is not a guarantee of correctness. Checksum coverage is ECU-dependent, and the workbench does not certify a file as flash-ready.
 
+
+### 🔬 Currently in development
+
+| Release track | Status |
+|:---|:---|
+| [**v1.20.1**](https://github.com/PCTestAdmin/ECU-Studio-AI/releases/tag/v1.20.1) | Published stable release |
+| [**v1.21.0-rc1**](https://github.com/PCTestAdmin/ECU-Studio-AI/releases/tag/v1.21.0-rc1) | Published release candidate |
+| [**NextGen recognition**](https://github.com/PCTestAdmin/ECU-Studio-AI/pull/30) | Experimental development — not released |
+
+Current development focuses on code-backed curve detection, shared-axis identity, safer editing and clearer uncertainty indicators. The next release is in preparation.
+
+| Development benchmark | rc1 | Quality phase 5 |
+|:---|---:|---:|
+| Exact 2D map matches | 32,058 | **35,276** |
+| Exact 1D matches | 102,973 | **125,837** |
+| Map mix-ups | 5,316 | **4,117** |
+
+<sub>Results on 58 development images, not independent validation. The experimental branch is not part of the stable release. QP5 reported 1,434 passing tests and 22 skipped tests.</sub>
+
+[**Development report**](https://github.com/PCTestAdmin/ECU-Studio-AI/blob/103edbfa273fdd5082d4106f8b518859deb36236/docs/ENTWICKLUNG_NEXTGEN.md) · [**Roadmap**](https://github.com/PCTestAdmin/ECU-Studio-AI/blob/main/ROADMAP.md) · [**Feedback**](https://github.com/PCTestAdmin/ECU-Studio-AI/issues)
+
 ---
 
 ## 🛠️ Technologies & tools
@@ -64,9 +85,9 @@ Currently building **ECU Studio AI** and exploring new ideas for future projects
 
 <div align="center">
 
-<img width="100%" alt="Public project statistics as of November 2026" src="./assets/project-snapshot.svg" />
+<img width="100%" alt="Public project statistics as of 25 November 2026" src="./assets/project-snapshot.svg" />
 
-<sub>Snapshot taken in November 2026. For live activity, see the contribution graph and pinned projects below.</sub>
+<sub>Snapshot taken on 25 November 2026. For live activity, see the contribution graph and pinned projects below.</sub>
 
 </div>
 
